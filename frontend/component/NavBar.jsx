@@ -9,11 +9,8 @@ function NaviBar() {
     
         <Container>
        
-          <Navbar.Brand>
-         
-         
-           Phone  
-         
+          <Navbar.Brand href='/'>
+          <button type="button" className="btn btn-info"> Home</button>
              </Navbar.Brand>
             
           
